@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'My first post on The Grid!'
-datePublished: '2015-12-17T01:48:31.229Z'
-dateModified: '2015-12-17T01:47:02.255Z'
+datePublished: '2015-12-17T01:48:57.753Z'
+dateModified: '2015-12-17T01:48:46.604Z'
 title: 'Hello Grid!'
 author: []
 sourcePath: _posts/2015-12-16-hello-grid.md
