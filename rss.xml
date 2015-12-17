@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tribezilla]]></title>
-        <description><![CDATA[Tribezilla]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Tribezilla! The event horizon of technological singularity.]]></title>
+        <description><![CDATA[Tribezilla! The event horizon of technological singularity.]]></description>
+        <link>http://tribezilla.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 18:16:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 01:49:14 GMT</lastBuildDate>
+        <atom:link href="http://tribezilla.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello Grid!]]></title>
-            <description><![CDATA[<h1>Hello Grid!</h1>]]></description>
-            <link>undefinedhello-grid/index.html</link>
+            <description><![CDATA[<article><h1>Hello Grid!</h1><p>I remember reading about The Grid which was described as the first artificial  intelligence (AI) platform that creates websites. I had flashbacks of childhood dreams of building robots and their brains. How would a robot brain work, what is a brain, what is thinking? The whole trail of ideas from robots to their brains is what got me into computers and information technology.
+
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06843820598bd8a9a4b8b20e8e7b642df5f6946c.jpg"></article>]]></description>
+            <link>http://tribezilla.com/hello-grid/index.html</link>
             <guid isPermaLink="false">23525792-d038-4fe9-af55-25751459ecde</guid>
-            <pubDate>Wed, 16 Dec 2015 18:16:48 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 01:48:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
