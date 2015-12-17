@@ -1,6 +1,6 @@
 name: Tribezilla
 favicon: null
-layout_spectrum: 0.07745
+layout_spectrum: 0.25222
 typography_spectrum: 0.23848
 title: 'Tribezilla! The event horizon of technological singularity.'
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
