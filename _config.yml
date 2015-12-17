@@ -1,7 +1,7 @@
 name: Tribezilla
 favicon: null
-layout_spectrum: 0.50028
-typography_spectrum: 0.6134
+layout_spectrum: 0.07745
+typography_spectrum: 0.23848
 title: 'Tribezilla! The event horizon of technological singularity.'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f6921e'
-    - '#6d6e70'
-    - '#000000'
-    - '#ff0000'
-    - '#ffff00'
-  brandStrength: 0.6328529056627303
+    - '#fefefc'
+    - '#844927'
+    - '#aa7a4a'
+    - '#fea137'
+    - '#fed444'
+  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.8258108447771519
-  rhythmicContrast: 0.9771094671450555
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
