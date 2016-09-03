@@ -1,20 +1,4 @@
-name: Tribezilla
-favicon: null
-layout_spectrum: 0.25222
 typography_spectrum: 0.23848
-title: 'Tribezilla! The event horizon of technological singularity.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-30892242-3
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fefefc'
@@ -26,4 +10,23 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25222
+analytics:
+  google: UA-30892242-3
+  facebook: null
+  twitter: null
+author:
+  name: George Goldstone
+  email: george@goldstone.me
+name: Tribezilla
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Tribezilla! The event horizon of technological singularity.
 purpose: []
